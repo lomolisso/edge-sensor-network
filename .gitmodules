@@ -1,0 +1,9 @@
+[submodule "esn-cloud-layer"]
+	path = esn-cloud-layer
+	url = https://github.com/lomolisso/esn-cloud-layer
+[submodule "esn-gateway-layer"]
+	path = esn-gateway-layer
+	url = https://github.com/lomolisso/esn-gateway-layer
+[submodule "esn-sensor-layer"]
+	path = esn-sensor-layer
+	url = https://github.com/lomolisso/esn-sensor-layer
