@@ -7,3 +7,6 @@
 [submodule "esn-sensor-layer"]
 	path = esn-sensor-layer
 	url = https://github.com/lomolisso/esn-sensor-layer
+[submodule "esn-application-layer"]
+	path = esn-application-layer
+	url = https://github.com/lomolisso/esn-application-layer
