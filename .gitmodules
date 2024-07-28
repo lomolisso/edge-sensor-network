@@ -13,3 +13,6 @@
 [submodule "esn-pdm-model"]
 	path = esn-pdm-model
 	url = git@github.com:lomolisso/esn-pdm-model.git
+[submodule "esn-experiments"]
+	path = esn-experiments
+	url = git@github.com:lomolisso/esn-experiments.git
