@@ -10,3 +10,6 @@
 [submodule "esn-application-layer"]
 	path = esn-application-layer
 	url = https://github.com/lomolisso/esn-application-layer
+[submodule "esn-pdm-model"]
+	path = esn-pdm-model
+	url = git@github.com:lomolisso/esn-pdm-model.git
